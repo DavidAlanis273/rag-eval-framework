@@ -1,0 +1,139 @@
+Eurotherm 6000XIO Distributed Graphic Recorders
+
+Each 6000XIO instrument has an intuitive, touch screen display to enable operators to clearly view process data in varying formats.  All have onboard Flash data storage capability, Ethernet communications and Compact Flash cards for data archiving.
+
+Description
+12.1″ XGA and 5.5″ ¼VGA display options Remote visualization and configuration 32Mbyte onboard Flash data storage Modbus Master Batch functionality 16-bit color, touch screen displays Custom graphic displays
+
+Data is stored in a tamper-resistant binary format that can be used for secure, long term records of your process.  The 6000XIO is truly designed for today’s networked world and can be accessed via a Local Area Network, dial-up connection, intranet or Internet.
+
+Data logging and archiving
+The 6000XIO recorders have internal Flash memory for secure data storage.  They are also able to accept various removable media types (Compact Flash or USB Memory Stick). Data stored within the internal memory can be archived to the removable media on demand or at preset intervals.  The 6000XIO will give indication of how long its internal memory and that of the removable media installed will last according to the configuration of the recorder.
+
+All 6000XIOs have Ethernet communications.  They can be configured to archive to the removable media and / or over Ethernet.  Archiving files over Ethernet effectively gives a secure, infinite archiving capacity.
+
+Ideal for:
+
+Remote monitoring applications
+Water/waste water solutions
+Utility distribution
+Power generation
+21 CFR Part 11 applications
+AMS2750F/Nadcap applications
+Features:
+
+Modbus master
+Ethernet TCP/IP
+Serial comms
+Up to 176 comms channels
+Batch functionality
+Audit trail
+Individual user accounts
+Software password protection
+USB ‘plug & play’
+Web server
+4 alarms per channel
+24 custom displays
+Up to 32 Modbus slaves
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+6100XIO: 5.5" / 6180XIO: 12.1"
+
+Protection
+
+IP66
+
+Relay Outputs
+
+No
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+No
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+1
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+None

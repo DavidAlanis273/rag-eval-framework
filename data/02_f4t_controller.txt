@@ -1,0 +1,40 @@
+F4T Temperature and Process Controller
+
+The F4T® integrated process controller combines the flexibility of a modular I/O with best-in-class ease of use and a sleek touchscreen UI, additionally provides custom tailored configurations to meet the scaling needs of wide range applications and equipment
+
+Description:
+Now featuring e-mail and text alerts. Notify users of an event that has occurred such as a specific profile or step within a profile, alarm condition, limit condition or analog input error. The F4T temperature & process controller from Watlow offers a wide range of field removable I/O modules for maximum design flexibility. Configurations can be custom tailored to meet the scaling needs of a tremendous range of equipment and applications while providing exactly the hardware types required for compatibility. The F4T controller also features a 4.3 inch, color, graphical touch panel. Combining power, flexibility and functionality, this new controller offers unmatched versatility, and its best-in-class ease of use could very well make user manuals a thing of the past.
+
+Firmware Updates 
+Latest Version: 4.08.0029 (February, 2021)
+
+Download (current firmware v3.06 or older)
+Download (current firmware v4.00 or newer)
+
+
+Description	Information:
+
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL/EN 61010 Listed, UL508, CSA, FM (limit), RoHS by design, China RoHS Level 2, W.E.E.E., CE
+Alarms	Up to 14
+Ambient Operating Range	-18 to 50C°C (0 to 122F°F)
+Communication Protocols	
+Standard Bus
+Modbus® TCP
+Modbus® RTU
+SCPI
+USB 2
+Control/Limit Loops	4/4
+Description	1-4 PID loops with profiles & data logging options
+Max Monitor Channels	24
+Max Output	10A SSR
+Mounting	Front panel or flush mount
+Operating Requirements	N/A
+Phase Configurations	1
+Profiling	Yes
+Supported Controllers	F4T, Flex Modules (FM), Composer PC software
+Remote Limit Reset	1
+Display Height	4.3" PCAP color graphical touch
+
+frequently asked questions.
+

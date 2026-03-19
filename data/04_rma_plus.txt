@@ -1,0 +1,34 @@
+EZ-ZONE RMA PLUS Remote Access Module
+
+EZ-ZONE RMA users have had to spend more time than desired to connect their entire system. Now the RMA PLUS offers standard state-of-the-art connectivity from the device to the entire system. Real-time communication is possible via a built-in Ethernet switch or USB. Users can also connect to third-party and legacy devices because the RMA PLUS acts as a gateway between EtherNet/IP™, Modbus® TCP and Modbus® RTU.
+
+
+Description:
+
+The device comes standard with a built-in managed Ethernet switch with two Ethernet jacks. Up to three Modbus® TCP sessions, three Watlow standard bus over Ethernet sessions and one standard bus over USB session is available in a single device.
+
+Users can also log up to 16 gigabytes of data standard or upgrade to a maximum of 32 gigabytes. Configuration and data logs are available as Windows® files so they can be easily accessed. In addition, discovery and transfer speeds have gone from minutes with the legacy EZ-ZONE RMA to just seconds with the RMA PLUS.
+
+Because the RMA PLUS is an essential component of the EZ-ZONE RM family, users receive all the benefits and support of working with Watlow®.
+
+Features & Benefits
+Plug and play access to EZ-ZONE RM family
+Integrates easily into existing systems
+Built-in Ethernet switch
+Eliminates the need to provide a switch for small systems
+Offers port mirroring for troubleshooting
+Protects from broadcast and multicast storms
+Integrated USB connection
+Provides easy connection from PC with no converter
+Ensures real-time communication from software packages
+EtherNet/IP™ Modbus® TCP and Modbus® RTU
+Allows users to build tables based on individual needs
+Connects to third-party and legacy devices
+Data logging
+Offers users the opportunity to log any data point in the
+system
+Interoperable with:
+EZ-ZONE RM (A, C, E, H, L, S, F, G, Z)
+EZ-ZONE PM, RUI, ST
+POWERGLIDE™ 
+ASPYRE® AT

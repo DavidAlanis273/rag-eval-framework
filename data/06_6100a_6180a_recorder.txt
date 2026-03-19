@@ -1,0 +1,158 @@
+Eurotherm 6100A / 6180A Paperless Graphic Recorder
+
+Eurotherm 6100A and 6180A Series Data Recorders have been specifically designed to meet industry requirements for data integrity of process records in pharmaceutical, aerospace, automotive and food & beverage applications.
+With capacity extendable to 48 precision input channels, and recording interval of as little as 125ms, the 6100 series is self-contained, cost effective and trusted by customers and auditors alike.
+
+Data can be encrypted during transmission to archive or backup servers, using SFTP to prevent interception or falsification of packets. Data redundancy is provided using a store and forward mechanism to avoid data loss if a network connection fails.
+
+Description
+Secure data recording
+Full color, high resolution, touch screen display
+Up to 48 universal input channels
+Batch functionality
+Remote viewing and configuration
+Full audit trail
+USB “Plug & Play”
+Local printing
+The 6180A offers unrivalled input accuracy with a 125ms total sample rate for up to 48 input channels. Input channels are freely configurable to suit your process requirements. Each instrument has an intuitive, touch screen display to enable operators to clearly view process data in varying formats.
+
+All have onboard Flash data storage capability, Ethernet communication and choice of Compact Flash or SD Card. Data is stored in a tamper resistant binary format that can be used for secure, long term records of your process.
+
+The 6000 Series fits a wide spectrum of applications by offering fully featured software options and flexible I/O, which can be added to at any time. A unique ‘trial mode’ feature removes the constraints of the purchased options, allowing you to simply ‘try before you buy’.
+
+Touch screen display
+The 6000 Series HMI is easy and intuitive to use ensuring faster productivity and minimal learning requirements. It also incorporates a ‘Pop Up’ full ‘QWERTY’ keyboard to facilitate easy data or message entry. There are no complicated button presses, you can create your own operator buttons, anywhere on the display. Use of intuitive drop down menus aid consistent navigation.
+
+Extensive communications
+Communications flexibility is the cornerstone of solutions in today’s challenging Global market.  The 6000 Series can be accessed via a Local Area Network, dial-up connection, Intranet or Internet.
+
+Built-in data protection and traceability
+Your most valuable asset is the data collected for process and legislation purposes. Protection includes Audit Trail for 21CFR Part 11 and Nadcap applications, with recorded login, use of unique usernames and passwords.
+
+Other options include: Portable versions
+
+Ideal for:
+
+21 CFR Part 11 Life Sciences applications
+AMS2750F Heat Treatment applications
+Power generation
+Water / waste water
+Sterilizers / autoclaves
+Features:
+
+12.1″ XGA touchscreen display
+Custom graphic displays
+Remote viewing / configuration
+Batch functions
+Adaptive recording
+Math functions
+Totalizers, timers, counters
+Groups
+Time synchronization (SNTP)
+Audit trail
+Electronic signatures
+Security Manager
+FTP client/server
+Ethernet communications
+Serial communications
+Event inputs
+Email / SMS notification
+Web server
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+ Specifications
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+6100A: 5.5" / 6180A: 12.1"
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+6100A: 3 USB / 6180A: 1 USB
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+6100A: 18 / 6180A: 48

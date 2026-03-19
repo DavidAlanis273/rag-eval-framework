@@ -1,0 +1,199 @@
+Eurotherm nanidac Recorder / Controller
+
+The ultimate in graphical recording combined with PID control and setpoint programs
+The nanodac™ recorder/controller offers the ultimate in graphical recording combined with PID control for a box of its size. The compact ¼ DIN panel mount unit offers four high accuracy universal inputs for data recording and PID control. This secure data recording device with accurate control is enhanced by a full colour, ¼ VGA display to bring a crystal clear operator interface to even the smallest of machines.
+
+Description:
+Precision analogue batch recording
+
+The Eurotherm nanodac™ recorder/controller offers four channels of precision analogue batch recording, easily meeting the requirements of regulators for accuracy and repeatability, and data logging requirements of 21 CFR 11. For more demanding applications, the Versadac recorder provides a back of panel solution with almost unlimited capacity. Both allow alarm and discrete input logging, communications with other devices, results available in the data record, electronic signatures and batch data recording.
+
+EtherNET/IP Client or Server mode
+
+Available as an option, the nanodac recorder/controller can be easily integrated with an existing instrument network and act as local data historian. When enabled, EtherNet/IP allows the nanodac to act as either a Client or a Server and provides data recording for up to 30 process parameters (via virtual channels). EtherNet/IP provides two user pages, the first is an overview of all the process parameters (data points) being addressed via the communications. The second is a diagnostics page that can be used during initial setup and commissioning, to test the connection, between the Client and/or Server.
+
+3 x Isolated DC Outputs (DDD)
+
+This release provides support for Isolated DC Outputs in option slots OP1, OP2 and OP3. Please refer to the Installation sheet or User Guide for wiring instructions.
+
+Washdown Front
+
+An optional IP66 rated Wash-down bezel has been made available in this release, making the nanodac suitable for applications in Food & Beverage or CIP/SIP.
+
+Crystal clear, colour display
+
+The 3.5” TFT display offers incredibly clear visualisation of process parameters with a wide selection of configurable views to best suit the application. Views include: Horizontal and vertical trends; Horizontal and vertical bar graphs; Numeric; Alarm panel, Alarm status, and control loops. The unit also provides user wiring from the front of the product for detailed configuration without the need to connect to a PC.
+
+Data Acquisition and Recording
+
+The nanodac recording functionality utilises the secure strategies and UHH format developed by Eurotherm through years of recording expertise. As well as multiple real-time views and historical review on the product, multiple data archiving strategies are provided utilising the 50MB onboard Flash memory, removable USB and data transfer via FTP to a specified server.
+
+The four universal input channels provide high accuracy (suitable for use in Nadcap applications) and 125ms parallel sampling. An additional 30 virtual channels can be utilised to provide maths, counter, slave communications and totaliser functionality within the instrument.
+
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+PID Control Loops
+
+The nanodac instrument can also provide two independent control loops (optional). This control functionality utilises the advanced Eurotherm PID algorithm providing high performance and reliability to your process. Functionality includes one of the best autotune facilities available along with overshoot inhibition (cutbacks); compensation for power fluctuations using power feedforward; linear, fan, oil and water cooling.
+
+Heat Treatment is one of the many processes that often need to vary the setpoint of the control process over a set period of time; this is achieved by using a set-point program. The nanodac offers an optional Dual Programmer supporting up to 100 programs locally, each program supporting 25 segments. The nanodac also provides remote access to a further 100 programs that can be easily retrieved via FTP or USB memory stick.
+
+
+
+Specifications:
+
+Input Type
+
+mA, mV, RTD, TC
+
+PV Accuracy
+
+<0.1%
+
+IP Rating
+
+IP65, NEMA12
+
+Display Type
+
+3.5” TFT colour, 320 x 240 pixels
+
+Control Types
+
+On/Off, PID, VP
+
+Supply Voltage
+
+24V dc/ac, 85-264V ac
+
+SP Programmer
+
+100 Programmes, 25 Segments Local/USB/FP
+
+Timer
+
+Yes
+
+Special Features
+
+Carbon Potential, Relative Humidity, User wiring, Washdown Faceplate
+
+Analogue IP/OP
+
+In: 8 Out: 3
+
+Digital IP/OP
+
+In: 4 Out: 5
+
+Digital Comms
+
+EtherNet/IP, Modbus TCP/IP
+
+Maths Equation
+
+17 Calculations
+
+Timers/Counters/Totals
+
+4 / 15 / 15
+
+PC Configuration
+
+Yes
+
+Control loops
+
+2
+
+Control Algorithms
+
+Cascade, Single, User wired
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+DHCP, Fixed IP
+
+Graphic Display
+
+3.5" TFT 320 x 240 pixels
+
+Protection
+
+IP65, NEMA12
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+No
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+1
+
+Reports
+
+No
+
+Groups
+
+1
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+4

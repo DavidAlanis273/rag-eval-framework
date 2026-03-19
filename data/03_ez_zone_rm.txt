@@ -1,0 +1,38 @@
+EZ-ZONE RM Modular Controller Family
+
+This EZ-ZONE RM controller family is extremely flexible and scalable allowing mixing and matching of I/O for one to 152 control loops and limits, up to 256 monitor points and other controller functions including counters, timers, math, and logic in an integrated control solution. The DIN-rail mountable modules can be used as stand-alone controllers, but when combined with other EZ-ZONE RM modules, PM PLUS controllers and ASPYRE AT power controllers they form a Watlow Ecosystem Solution sharing I/O and function block programming as a system.
+
+
+Description: 
+The EZ-ZONE RM controller family includes several module types: A temperature and process control, monitoring and over/under temperature limit module, a high-density control module, a high-density limit module, an input/output (I/O) expansion module, a high-density monitor/scanner module, a fiber optic temperature sensor module, an EtherCAT® module and a data logging and field communications access module. A system is configured by connecting any combination of module types and configuring with Watlow’s COMPOSER® software to address specific application needs.
+
+Key component of a Watlow Ecosystem Solution
+
+Integrates EZ-ZONE® RM, RMA PLUS™ and PM PLUS® controllers and ASPYRE AT power controllers for a complete solution including Modbus® TCP, EtherNet/IP™, or EtherCAT® communication.
+Eliminates discrete wiring between temperature controllers and power controllers for each heater through the highspeed bakcplane interface with Watlow controllers. 
+Enables data collection and diagnostics from temperature, process and power control 
+Customizes for your application with programmable function blocks including logic, math, compare and more. 
+
+Description	Information
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL® , CSA, CE, RoHS, W.E.E.E. FM (limit feature), SEMI F47-0200, Class 1, Div. 2 on select models
+Alarms	Up to 24 per module
+Ambient Operating Range	-18 to 65°C (0 to 149°F)
+Communication Protocols	
+Standard Bus
+Modbus® RTU
+Modbus® TCP
+EtherNet/IP™
+Watlow Ecosystem (Intermodule Bus)
+Control/Limit Loops	152/192
+Description	Multi-loop controller with data logging ability
+Max Monitor Channels	256
+Max Output	15A
+Mounting	DIN-rail
+Operating Requirements	None
+Phase Configurations	1
+Profiling	Yes
+Supported Controllers	EZ-ZONE RM
+Remote Limit Reset	1
+Display Height	Optional RUI: 0.84in. (21mm)
+Warranty (Years)	3

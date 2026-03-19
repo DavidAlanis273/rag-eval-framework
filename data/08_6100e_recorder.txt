@@ -1,0 +1,136 @@
+Eurotherm 6100E Paperless Graphic Recorder
+
+6100E – 6 Channel, Ethernet Communications Paperless Graphic Recorder
+The 6100E brings you Eurotherm excellence in a basic package to ensure you can meet your simple data recording requirements.
+
+Description
+Advanced data security and archiving
+5.5″, 1/4 VGA, Color touch screen display
+Designed for network and stand alone use
+FTP client and server
+Live, remote data viewing and configuration
+125ms parallel sampling
+The unit is ideal for basic visualisation and recording requirements and makes an excellent replacement for small strip chart recorders – bringing you all of the cost benefits, security and flexibility of secure electronic data files.
+
+The 6100E has a full color display and utilises touch screen technology for clear and intuitive configuration and operation. It further supports a USB port as standard to enable the use of a mouse, keyboard or bar code scanner so that you can choose the interface method that is easiest for you.
+
+Security to give you peace of mind
+With the 6100E your data is stored in check summed, binary compressed files to keep it secure.
+
+A graphic recorder ensures that pens and paper will never run out and data can be moved manually or automatically archived to multiple locations: removable media, network servers or the Eurotherm Review database on a PC. An internal, non-volatile 8Mb memory gives significant storage and data review capability at the instrument itself. This enables you to set up the best strategy for your application to keep your data safe – if you prefer, without the need for operator intervention.
+
+A low cost recorder with adaptable features
+The 6100E not only brings you everything you need for your basic recording needs, it has features that adapt it to best fit your application requirements. The USB port can be used to support a removable memory stick for additional data storage local to the recorder or for additional operator interfaces to suit your data entry needs – bar code, keyboard or mouse.
+
+6100E provides an Ethernet port and supports Modbus TCP (slave) and FTP protocols. The recorder can easily, therefore, be integrated into a larger system and data files can be transferred across the network so that your data is available where you want it, when you want it.
+
+Support for relay outputs and configurable channels of Maths, Totalisers and Counters give you further flexibility to adapt the recorder to meet very specific application needs. Maths functions include add, subtract, multiply, divide, constant, group max, group average, channel min, channel max, channel average, rolling average and slaves comms.
+
+Features:
+
+Advanced data security and archiving
+Universal inputs
+Ethernet communications
+Time synchronization (SNTP)
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+ Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+No
+
+Auditor Features
+
+No
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+5.5"
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+No
+
+Communications
+
+Modbus TCP Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+No
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+1Hz
+
+Trend Speed
+
+1Hz
+
+USB
+
+1
+
+Reports
+
+No
+
+Groups
+
+1
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+No
+
+Inputs
+
+6

@@ -1,0 +1,141 @@
+Eurotherm 6180 AeroDAQ Graphic Recorder
+
+6180 AeroDAQ
+Colour touchscreen display
+USB ‘plug & play’
+6 universal Inputs
+96MB non-volatile flash memory
+125ms parallel sampling
+Compact Flash
+Modbus RTU
+Ethernet TCP/IP
+Web server
+AMS2750F is forcing aerospace suppliers to adopt rigorous procedures for furnace maintenance. The AeroDAQ is designed to help you comply with Aerospace industry standards.
+
+Description
+Thermocouple life monitoring
+The 6180 AeroDAQ provides thermocouple life monitoring functionality based on AMS2750F, Sections 3.1.5 and 3.1.5.3. Both thermocouple Uses and Days remaining are accounted for to help assure that thermocouples are not used beyond their maximum life as per AMS2750F.
+
+Automated scheduling
+Using a furnace when it has exceeded the allowable period for calibration, TUS (Thermal Uniformity Survey), or SAT (System Accuracy Test) can result in audit noncompliance, and monetary loss.
+
+The 6180 AeroDAQ provides notification of due dates for:
+
+Calibration
+TUS
+SAT
+Reporting capability
+Your success depends not only on your skill in managing heat treatment processes, but also in proving that your process conforms to your customers’ specifications and the standards of your auditing bodies.
+
+The reporting package that accompanies the 6180 AeroDAQ provides a standard batch reporting functionality including:
+
+Customer information
+Batch information
+Trending
+Alarm summary
+The 6180 AeroDAQ reporting package can be easily customized to meet your specific requirements, transforming securely archived data into batch information critical to you and your customers.
+
+Visit our dedicated Heat Treatment Solutions site for more information on facing the issues of AMS2750F.
+
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+12.1"
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+3
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+48
