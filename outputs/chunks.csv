@@ -1,0 +1,1061 @@
+chunk_id,source_document,chunk_text
+01_nanodac_recorder_chunk_000,01_nanodac_recorder,"Eurotherm nanidac Recorder / Controller
+
+The ultimate in graphical recording combined with PID control and setpoint programs
+The nanodac™ recorder/controller offers the ultimate in graphical recording combined with PID control for a box of its size. The compact ¼ DIN panel mount unit offers four high accuracy universal inputs for data recording and PID control."
+01_nanodac_recorder_chunk_001,01_nanodac_recorder,"iversal inputs for data recording and PID control. This secure data recording device with accurate control is enhanced by a full colour, ¼ VGA display to bring a crystal clear operator interface to even the smallest of machines.
+
+Description:
+Precision analogue batch recording"
+01_nanodac_recorder_chunk_002,01_nanodac_recorder,"Description:
+Precision analogue batch recording
+
+The Eurotherm nanodac™ recorder/controller offers four channels of precision analogue batch recording, easily meeting the requirements of regulators for accuracy and repeatability, and data logging requirements of 21 CFR 11. For more demanding applications, the Versadac recorder provides a back of panel solution with almost unlimited capacity."
+01_nanodac_recorder_chunk_003,01_nanodac_recorder,"of panel solution with almost unlimited capacity. Both allow alarm and discrete input logging, communications with other devices, results available in the data record, electronic signatures and batch data recording.
+
+EtherNET/IP Client or Server mode
+
+Available as an option, the nanodac recorder/controller can be easily integrated with an existing instrument network and act as local data historian."
+01_nanodac_recorder_chunk_004,01_nanodac_recorder,"nstrument network and act as local data historian. When enabled, EtherNet/IP allows the nanodac to act as either a Client or a Server and provides data recording for up to 30 process parameters (via virtual channels). EtherNet/IP provides two user pages, the first is an overview of all the process parameters (data points) being addressed via the communications."
+01_nanodac_recorder_chunk_005,01_nanodac_recorder,"ta points) being addressed via the communications. The second is a diagnostics page that can be used during initial setup and commissioning, to test the connection, between the Client and/or Server.
+
+3 x Isolated DC Outputs (DDD)
+
+This release provides support for Isolated DC Outputs in option slots OP1, OP2 and OP3. Please refer to the Installation sheet or User Guide for wiring instructions.
+
+Washdown Front"
+01_nanodac_recorder_chunk_006,01_nanodac_recorder,"r Guide for wiring instructions.
+
+Washdown Front
+
+An optional IP66 rated Wash-down bezel has been made available in this release, making the nanodac suitable for applications in Food & Beverage or CIP/SIP.
+
+Crystal clear, colour display
+
+The 3.5” TFT display offers incredibly clear visualisation of process parameters with a wide selection of configurable views to best suit the application."
+01_nanodac_recorder_chunk_007,01_nanodac_recorder,"f configurable views to best suit the application. Views include: Horizontal and vertical trends; Horizontal and vertical bar graphs; Numeric; Alarm panel, Alarm status, and control loops. The unit also provides user wiring from the front of the product for detailed configuration without the need to connect to a PC.
+
+Data Acquisition and Recording
+
+The nanodac recording functionality utilises the secure strategies and UHH format developed by Eurotherm through years of recording expertise."
+01_nanodac_recorder_chunk_008,01_nanodac_recorder,"by Eurotherm through years of recording expertise. As well as multiple real-time views and historical review on the product, multiple data archiving strategies are provided utilising the 50MB onboard Flash memory, removable USB and data transfer via FTP to a specified server.
+
+The four universal input channels provide high accuracy (suitable for use in Nadcap applications) and 125ms parallel sampling."
+01_nanodac_recorder_chunk_009,01_nanodac_recorder,"Nadcap applications) and 125ms parallel sampling. An additional 30 virtual channels can be utilised to provide maths, counter, slave communications and totaliser functionality within the instrument.
+
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+PID Control Loops
+
+The nanodac instrument can also provide two independent control loops (optional)."
+01_nanodac_recorder_chunk_010,01_nanodac_recorder,"provide two independent control loops (optional). This control functionality utilises the advanced Eurotherm PID algorithm providing high performance and reliability to your process. Functionality includes one of the best autotune facilities available along with overshoot inhibition (cutbacks); compensation for power fluctuations using power feedforward; linear, fan, oil and water cooling."
+01_nanodac_recorder_chunk_011,01_nanodac_recorder,"feedforward; linear, fan, oil and water cooling.
+
+Heat Treatment is one of the many processes that often need to vary the setpoint of the control process over a set period of time; this is achieved by using a set-point program. The nanodac offers an optional Dual Programmer supporting up to 100 programs locally, each program supporting 25 segments. The nanodac also provides remote access to a further 100 programs that can be easily retrieved via FTP or USB memory stick.
+
+
+
+Specifications:"
+01_nanodac_recorder_chunk_012,01_nanodac_recorder,"via FTP or USB memory stick.
+
+
+
+Specifications:
+
+Input Type
+
+mA, mV, RTD, TC
+
+PV Accuracy
+
+<0.1%
+
+IP Rating
+
+IP65, NEMA12
+
+Display Type
+
+3.5” TFT colour, 320 x 240 pixels
+
+Control Types
+
+On/Off, PID, VP
+
+Supply Voltage
+
+24V dc/ac, 85-264V ac
+
+SP Programmer
+
+100 Programmes, 25 Segments Local/USB/FP
+
+Timer
+
+Yes
+
+Special Features
+
+Carbon Potential, Relative Humidity, User wiring, Washdown Faceplate
+
+Analogue IP/OP
+
+In: 8 Out: 3
+
+Digital IP/OP
+
+In: 4 Out: 5
+
+Digital Comms"
+01_nanodac_recorder_chunk_013,01_nanodac_recorder,"t: 3
+
+Digital IP/OP
+
+In: 4 Out: 5
+
+Digital Comms
+
+EtherNet/IP, Modbus TCP/IP
+
+Maths Equation
+
+17 Calculations
+
+Timers/Counters/Totals
+
+4 / 15 / 15
+
+PC Configuration
+
+Yes
+
+Control loops
+
+2
+
+Control Algorithms
+
+Cascade, Single, User wired
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+DHCP, Fixed IP
+
+Graphic Display
+
+3.5"" TFT 320 x 240 pixels
+
+Protection
+
+IP65, NEMA12
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes"
+01_nanodac_recorder_chunk_014,01_nanodac_recorder,"Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+No
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+1
+
+Reports
+
+No
+
+Groups
+
+1
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+4"
+02_f4t_controller_chunk_000,02_f4t_controller,"F4T Temperature and Process Controller
+
+The F4T® integrated process controller combines the flexibility of a modular I/O with best-in-class ease of use and a sleek touchscreen UI, additionally provides custom tailored configurations to meet the scaling needs of wide range applications and equipment
+
+Description:
+Now featuring e-mail and text alerts."
+02_f4t_controller_chunk_001,02_f4t_controller,"Description:
+Now featuring e-mail and text alerts. Notify users of an event that has occurred such as a specific profile or step within a profile, alarm condition, limit condition or analog input error. The F4T temperature & process controller from Watlow offers a wide range of field removable I/O modules for maximum design flexibility."
+02_f4t_controller_chunk_002,02_f4t_controller,"ovable I/O modules for maximum design flexibility. Configurations can be custom tailored to meet the scaling needs of a tremendous range of equipment and applications while providing exactly the hardware types required for compatibility. The F4T controller also features a 4.3 inch, color, graphical touch panel. Combining power, flexibility and functionality, this new controller offers unmatched versatility, and its best-in-class ease of use could very well make user manuals a thing of the past."
+02_f4t_controller_chunk_003,02_f4t_controller,"very well make user manuals a thing of the past.
+
+Firmware Updates 
+Latest Version: 4.08.0029 (February, 2021)
+
+Download (current firmware v3.06 or older)
+Download (current firmware v4.00 or newer)
+
+
+Description	Information:
+
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL/EN 61010 Listed, UL508, CSA, FM (limit), RoHS by design, China RoHS Level 2, W.E.E.E., CE
+Alarms	Up to 14
+Ambient Operating Range	-18 to 50C°C (0 to 122F°F)
+Communication Protocols	
+Standard Bus
+Modbus® TCP
+Modbus® RTU"
+02_f4t_controller_chunk_004,02_f4t_controller,"n Protocols	
+Standard Bus
+Modbus® TCP
+Modbus® RTU
+SCPI
+USB 2
+Control/Limit Loops	4/4
+Description	1-4 PID loops with profiles & data logging options
+Max Monitor Channels	24
+Max Output	10A SSR
+Mounting	Front panel or flush mount
+Operating Requirements	N/A
+Phase Configurations	1
+Profiling	Yes
+Supported Controllers	F4T, Flex Modules (FM), Composer PC software
+Remote Limit Reset	1
+Display Height	4.3"" PCAP color graphical touch
+
+frequently asked questions."
+02_f4t_controller_chunk_005,02_f4t_controller,ons.
+03_ez_zone_rm_chunk_000,03_ez_zone_rm,"EZ-ZONE RM Modular Controller Family
+
+This EZ-ZONE RM controller family is extremely flexible and scalable allowing mixing and matching of I/O for one to 152 control loops and limits, up to 256 monitor points and other controller functions including counters, timers, math, and logic in an integrated control solution."
+03_ez_zone_rm_chunk_001,03_ez_zone_rm,"math, and logic in an integrated control solution. The DIN-rail mountable modules can be used as stand-alone controllers, but when combined with other EZ-ZONE RM modules, PM PLUS controllers and ASPYRE AT power controllers they form a Watlow Ecosystem Solution sharing I/O and function block programming as a system.
+
+
+Description:"
+03_ez_zone_rm_chunk_002,03_ez_zone_rm,"on block programming as a system.
+
+
+Description: 
+The EZ-ZONE RM controller family includes several module types: A temperature and process control, monitoring and over/under temperature limit module, a high-density control module, a high-density limit module, an input/output (I/O) expansion module, a high-density monitor/scanner module, a fiber optic temperature sensor module, an EtherCAT® module and a data logging and field communications access module."
+03_ez_zone_rm_chunk_003,03_ez_zone_rm,"ta logging and field communications access module. A system is configured by connecting any combination of module types and configuring with Watlow’s COMPOSER® software to address specific application needs.
+
+Key component of a Watlow Ecosystem Solution
+
+Integrates EZ-ZONE® RM, RMA PLUS™ and PM PLUS® controllers and ASPYRE AT power controllers for a complete solution including Modbus® TCP, EtherNet/IP™, or EtherCAT® communication."
+03_ez_zone_rm_chunk_004,03_ez_zone_rm,"s® TCP, EtherNet/IP™, or EtherCAT® communication.
+Eliminates discrete wiring between temperature controllers and power controllers for each heater through the highspeed bakcplane interface with Watlow controllers. 
+Enables data collection and diagnostics from temperature, process and power control 
+Customizes for your application with programmable function blocks including logic, math, compare and more. 
+
+Description	Information
+TRU-TUNE®+ Adaptive Control	Yes"
+03_ez_zone_rm_chunk_005,03_ez_zone_rm,"ption	Information
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL® , CSA, CE, RoHS, W.E.E.E. FM (limit feature), SEMI F47-0200, Class 1, Div. 2 on select models
+Alarms	Up to 24 per module
+Ambient Operating Range	-18 to 65°C (0 to 149°F)
+Communication Protocols	
+Standard Bus
+Modbus® RTU
+Modbus® TCP
+EtherNet/IP™
+Watlow Ecosystem (Intermodule Bus)
+Control/Limit Loops	152/192
+Description	Multi-loop controller with data logging ability
+Max Monitor Channels	256
+Max Output	15A
+Mounting	DIN-rail"
+03_ez_zone_rm_chunk_006,03_ez_zone_rm,"tor Channels	256
+Max Output	15A
+Mounting	DIN-rail
+Operating Requirements	None
+Phase Configurations	1
+Profiling	Yes
+Supported Controllers	EZ-ZONE RM
+Remote Limit Reset	1
+Display Height	Optional RUI: 0.84in. (21mm)
+Warranty (Years)	3"
+04_rma_plus_chunk_000,04_rma_plus,"EZ-ZONE RMA PLUS Remote Access Module
+
+EZ-ZONE RMA users have had to spend more time than desired to connect their entire system. Now the RMA PLUS offers standard state-of-the-art connectivity from the device to the entire system. Real-time communication is possible via a built-in Ethernet switch or USB. Users can also connect to third-party and legacy devices because the RMA PLUS acts as a gateway between EtherNet/IP™, Modbus® TCP and Modbus® RTU.
+
+
+Description:"
+04_rma_plus_chunk_001,04_rma_plus,"IP™, Modbus® TCP and Modbus® RTU.
+
+
+Description:
+
+The device comes standard with a built-in managed Ethernet switch with two Ethernet jacks. Up to three Modbus® TCP sessions, three Watlow standard bus over Ethernet sessions and one standard bus over USB session is available in a single device.
+
+Users can also log up to 16 gigabytes of data standard or upgrade to a maximum of 32 gigabytes. Configuration and data logs are available as Windows® files so they can be easily accessed."
+04_rma_plus_chunk_002,04_rma_plus,"as Windows® files so they can be easily accessed. In addition, discovery and transfer speeds have gone from minutes with the legacy EZ-ZONE RMA to just seconds with the RMA PLUS.
+
+Because the RMA PLUS is an essential component of the EZ-ZONE RM family, users receive all the benefits and support of working with Watlow®.
+
+Features & Benefits
+Plug and play access to EZ-ZONE RM family
+Integrates easily into existing systems
+Built-in Ethernet switch"
+04_rma_plus_chunk_003,04_rma_plus,"ly into existing systems
+Built-in Ethernet switch
+Eliminates the need to provide a switch for small systems
+Offers port mirroring for troubleshooting
+Protects from broadcast and multicast storms
+Integrated USB connection
+Provides easy connection from PC with no converter
+Ensures real-time communication from software packages
+EtherNet/IP™ Modbus® TCP and Modbus® RTU
+Allows users to build tables based on individual needs
+Connects to third-party and legacy devices
+Data logging"
+04_rma_plus_chunk_004,04_rma_plus,"ts to third-party and legacy devices
+Data logging
+Offers users the opportunity to log any data point in the
+system
+Interoperable with:
+EZ-ZONE RM (A, C, E, H, L, S, F, G, Z)
+EZ-ZONE PM, RUI, ST
+POWERGLIDE™ 
+ASPYRE® AT"
+05_6000xio_recorder_chunk_000,05_6000xio_recorder,"Eurotherm 6000XIO Distributed Graphic Recorders
+
+Each 6000XIO instrument has an intuitive, touch screen display to enable operators to clearly view process data in varying formats.  All have onboard Flash data storage capability, Ethernet communications and Compact Flash cards for data archiving.
+
+Description"
+05_6000xio_recorder_chunk_001,05_6000xio_recorder,"pact Flash cards for data archiving.
+
+Description
+12.1″ XGA and 5.5″ ¼VGA display options Remote visualization and configuration 32Mbyte onboard Flash data storage Modbus Master Batch functionality 16-bit color, touch screen displays Custom graphic displays
+
+Data is stored in a tamper-resistant binary format that can be used for secure, long term records of your process."
+05_6000xio_recorder_chunk_002,05_6000xio_recorder,"sed for secure, long term records of your process.  The 6000XIO is truly designed for today’s networked world and can be accessed via a Local Area Network, dial-up connection, intranet or Internet.
+
+Data logging and archiving
+The 6000XIO recorders have internal Flash memory for secure data storage.  They are also able to accept various removable media types (Compact Flash or USB Memory Stick)."
+05_6000xio_recorder_chunk_003,05_6000xio_recorder,"e media types (Compact Flash or USB Memory Stick). Data stored within the internal memory can be archived to the removable media on demand or at preset intervals.  The 6000XIO will give indication of how long its internal memory and that of the removable media installed will last according to the configuration of the recorder.
+
+All 6000XIOs have Ethernet communications.  They can be configured to archive to the removable media and / or over Ethernet."
+05_6000xio_recorder_chunk_004,05_6000xio_recorder,"ive to the removable media and / or over Ethernet.  Archiving files over Ethernet effectively gives a secure, infinite archiving capacity.
+
+Ideal for:
+
+Remote monitoring applications
+Water/waste water solutions
+Utility distribution
+Power generation
+21 CFR Part 11 applications
+AMS2750F/Nadcap applications
+Features:
+
+Modbus master
+Ethernet TCP/IP
+Serial comms
+Up to 176 comms channels
+Batch functionality
+Audit trail
+Individual user accounts
+Software password protection
+USB ‘plug & play’
+Web server"
+05_6000xio_recorder_chunk_005,05_6000xio_recorder,"password protection
+USB ‘plug & play’
+Web server
+4 alarms per channel
+24 custom displays
+Up to 32 Modbus slaves
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+6100XIO: 5.5"" / 6180XIO: 12.1""
+
+Protection
+
+IP66
+
+Relay Outputs
+
+No"
+05_6000xio_recorder_chunk_006,05_6000xio_recorder,"0XIO: 12.1""
+
+Protection
+
+IP66
+
+Relay Outputs
+
+No
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+No
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+1
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+None"
+06_6100a_6180a_recorder_chunk_000,06_6100a_6180a_recorder,"Eurotherm 6100A / 6180A Paperless Graphic Recorder
+
+Eurotherm 6100A and 6180A Series Data Recorders have been specifically designed to meet industry requirements for data integrity of process records in pharmaceutical, aerospace, automotive and food & beverage applications.
+With capacity extendable to 48 precision input channels, and recording interval of as little as 125ms, the 6100 series is self-contained, cost effective and trusted by customers and auditors alike."
+06_6100a_6180a_recorder_chunk_001,06_6100a_6180a_recorder,"ive and trusted by customers and auditors alike.
+
+Data can be encrypted during transmission to archive or backup servers, using SFTP to prevent interception or falsification of packets. Data redundancy is provided using a store and forward mechanism to avoid data loss if a network connection fails.
+
+Description
+Secure data recording
+Full color, high resolution, touch screen display
+Up to 48 universal input channels
+Batch functionality
+Remote viewing and configuration
+Full audit trail"
+06_6100a_6180a_recorder_chunk_002,06_6100a_6180a_recorder,"Remote viewing and configuration
+Full audit trail
+USB “Plug & Play”
+Local printing
+The 6180A offers unrivalled input accuracy with a 125ms total sample rate for up to 48 input channels. Input channels are freely configurable to suit your process requirements. Each instrument has an intuitive, touch screen display to enable operators to clearly view process data in varying formats.
+
+All have onboard Flash data storage capability, Ethernet communication and choice of Compact Flash or SD Card."
+06_6100a_6180a_recorder_chunk_003,06_6100a_6180a_recorder,"munication and choice of Compact Flash or SD Card. Data is stored in a tamper resistant binary format that can be used for secure, long term records of your process.
+
+The 6000 Series fits a wide spectrum of applications by offering fully featured software options and flexible I/O, which can be added to at any time. A unique ‘trial mode’ feature removes the constraints of the purchased options, allowing you to simply ‘try before you buy’.
+
+Touch screen display"
+06_6100a_6180a_recorder_chunk_004,06_6100a_6180a_recorder,"imply ‘try before you buy’.
+
+Touch screen display
+The 6000 Series HMI is easy and intuitive to use ensuring faster productivity and minimal learning requirements. It also incorporates a ‘Pop Up’ full ‘QWERTY’ keyboard to facilitate easy data or message entry. There are no complicated button presses, you can create your own operator buttons, anywhere on the display. Use of intuitive drop down menus aid consistent navigation.
+
+Extensive communications"
+06_6100a_6180a_recorder_chunk_005,06_6100a_6180a_recorder,"consistent navigation.
+
+Extensive communications
+Communications flexibility is the cornerstone of solutions in today’s challenging Global market.  The 6000 Series can be accessed via a Local Area Network, dial-up connection, Intranet or Internet.
+
+Built-in data protection and traceability
+Your most valuable asset is the data collected for process and legislation purposes."
+06_6100a_6180a_recorder_chunk_006,06_6100a_6180a_recorder,"ta collected for process and legislation purposes. Protection includes Audit Trail for 21CFR Part 11 and Nadcap applications, with recorded login, use of unique usernames and passwords.
+
+Other options include: Portable versions
+
+Ideal for:
+
+21 CFR Part 11 Life Sciences applications
+AMS2750F Heat Treatment applications
+Power generation
+Water / waste water
+Sterilizers / autoclaves
+Features:
+
+12.1″ XGA touchscreen display
+Custom graphic displays
+Remote viewing / configuration
+Batch functions"
+06_6100a_6180a_recorder_chunk_007,06_6100a_6180a_recorder,"ys
+Remote viewing / configuration
+Batch functions
+Adaptive recording
+Math functions
+Totalizers, timers, counters
+Groups
+Time synchronization (SNTP)
+Audit trail
+Electronic signatures
+Security Manager
+FTP client/server
+Ethernet communications
+Serial communications
+Event inputs
+Email / SMS notification
+Web server
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+ Specifications"
+06_6100a_6180a_recorder_chunk_008,06_6100a_6180a_recorder,"herm data acquisition equipment.
+
+ Specifications
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+6100A: 5.5"" / 6180A: 12.1""
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed"
+06_6100a_6180a_recorder_chunk_009,06_6100a_6180a_recorder,"Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+6100A: 3 USB / 6180A: 1 USB
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+6100A: 18 / 6180A: 48"
+07_6180_aerodaq_chunk_000,07_6180_aerodaq,"Eurotherm 6180 AeroDAQ Graphic Recorder
+
+6180 AeroDAQ
+Colour touchscreen display
+USB ‘plug & play’
+6 universal Inputs
+96MB non-volatile flash memory
+125ms parallel sampling
+Compact Flash
+Modbus RTU
+Ethernet TCP/IP
+Web server
+AMS2750F is forcing aerospace suppliers to adopt rigorous procedures for furnace maintenance. The AeroDAQ is designed to help you comply with Aerospace industry standards.
+
+Description
+Thermocouple life monitoring"
+07_6180_aerodaq_chunk_001,07_6180_aerodaq,"ndards.
+
+Description
+Thermocouple life monitoring
+The 6180 AeroDAQ provides thermocouple life monitoring functionality based on AMS2750F, Sections 3.1.5 and 3.1.5.3. Both thermocouple Uses and Days remaining are accounted for to help assure that thermocouples are not used beyond their maximum life as per AMS2750F.
+
+Automated scheduling"
+07_6180_aerodaq_chunk_002,07_6180_aerodaq,"ximum life as per AMS2750F.
+
+Automated scheduling
+Using a furnace when it has exceeded the allowable period for calibration, TUS (Thermal Uniformity Survey), or SAT (System Accuracy Test) can result in audit noncompliance, and monetary loss.
+
+The 6180 AeroDAQ provides notification of due dates for:
+
+Calibration
+TUS
+SAT
+Reporting capability"
+07_6180_aerodaq_chunk_003,07_6180_aerodaq,"es for:
+
+Calibration
+TUS
+SAT
+Reporting capability
+Your success depends not only on your skill in managing heat treatment processes, but also in proving that your process conforms to your customers’ specifications and the standards of your auditing bodies.
+
+The reporting package that accompanies the 6180 AeroDAQ provides a standard batch reporting functionality including:
+
+Customer information
+Batch information
+Trending
+Alarm summary"
+07_6180_aerodaq_chunk_004,07_6180_aerodaq,"ormation
+Batch information
+Trending
+Alarm summary
+The 6180 AeroDAQ reporting package can be easily customized to meet your specific requirements, transforming securely archived data into batch information critical to you and your customers.
+
+Visit our dedicated Heat Treatment Solutions site for more information on facing the issues of AMS2750F."
+07_6180_aerodaq_chunk_005,07_6180_aerodaq,"re information on facing the issues of AMS2750F.
+
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment.
+
+Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+Yes
+
+Auditor Features
+
+Yes
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+12.1""
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Communications"
+07_6180_aerodaq_chunk_006,07_6180_aerodaq,"tation
+
+Yes
+
+Contact Inputs
+
+Yes
+
+Communications
+
+EtherNet/IP Server, Modbus TCP/RTU Master & Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+Yes
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+8Hz
+
+Trend Speed
+
+8Hz
+
+USB
+
+3
+
+Reports
+
+10
+
+Groups
+
+12
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+Yes
+
+Inputs
+
+48"
+08_6100e_recorder_chunk_000,08_6100e_recorder,"Eurotherm 6100E Paperless Graphic Recorder
+
+6100E – 6 Channel, Ethernet Communications Paperless Graphic Recorder
+The 6100E brings you Eurotherm excellence in a basic package to ensure you can meet your simple data recording requirements.
+
+Description
+Advanced data security and archiving
+5.5″, 1/4 VGA, Color touch screen display
+Designed for network and stand alone use
+FTP client and server
+Live, remote data viewing and configuration
+125ms parallel sampling"
+08_6100e_recorder_chunk_001,08_6100e_recorder,"viewing and configuration
+125ms parallel sampling
+The unit is ideal for basic visualisation and recording requirements and makes an excellent replacement for small strip chart recorders – bringing you all of the cost benefits, security and flexibility of secure electronic data files.
+
+The 6100E has a full color display and utilises touch screen technology for clear and intuitive configuration and operation."
+08_6100e_recorder_chunk_002,08_6100e_recorder,"r clear and intuitive configuration and operation. It further supports a USB port as standard to enable the use of a mouse, keyboard or bar code scanner so that you can choose the interface method that is easiest for you.
+
+Security to give you peace of mind
+With the 6100E your data is stored in check summed, binary compressed files to keep it secure."
+08_6100e_recorder_chunk_003,08_6100e_recorder,"mmed, binary compressed files to keep it secure.
+
+A graphic recorder ensures that pens and paper will never run out and data can be moved manually or automatically archived to multiple locations: removable media, network servers or the Eurotherm Review database on a PC. An internal, non-volatile 8Mb memory gives significant storage and data review capability at the instrument itself."
+08_6100e_recorder_chunk_004,08_6100e_recorder,"d data review capability at the instrument itself. This enables you to set up the best strategy for your application to keep your data safe – if you prefer, without the need for operator intervention.
+
+A low cost recorder with adaptable features
+The 6100E not only brings you everything you need for your basic recording needs, it has features that adapt it to best fit your application requirements."
+08_6100e_recorder_chunk_005,08_6100e_recorder,"dapt it to best fit your application requirements. The USB port can be used to support a removable memory stick for additional data storage local to the recorder or for additional operator interfaces to suit your data entry needs – bar code, keyboard or mouse.
+
+6100E provides an Ethernet port and supports Modbus TCP (slave) and FTP protocols."
+08_6100e_recorder_chunk_006,08_6100e_recorder,"and supports Modbus TCP (slave) and FTP protocols. The recorder can easily, therefore, be integrated into a larger system and data files can be transferred across the network so that your data is available where you want it, when you want it.
+
+Support for relay outputs and configurable channels of Maths, Totalisers and Counters give you further flexibility to adapt the recorder to meet very specific application needs."
+08_6100e_recorder_chunk_007,08_6100e_recorder,"recorder to meet very specific application needs. Maths functions include add, subtract, multiply, divide, constant, group max, group average, channel min, channel max, channel average, rolling average and slaves comms.
+
+Features:
+
+Advanced data security and archiving
+Universal inputs
+Ethernet communications
+Time synchronization (SNTP)
+Eurotherm Data Reviewer is the ideal choice for the viewing, analysis and printing of historical data files acquired from Eurotherm data acquisition equipment."
+08_6100e_recorder_chunk_008,08_6100e_recorder,"uired from Eurotherm data acquisition equipment.
+
+ Specifications
+Timer
+
+Yes
+
+PC Configuration
+
+Yes
+
+Batch Management
+
+No
+
+Auditor Features
+
+No
+
+Network Addressing
+
+Boot P, DHCP, Fixed IP
+
+Graphic Display
+
+5.5""
+
+Protection
+
+IP66
+
+Relay Outputs
+
+Yes
+
+Annotation
+
+Yes
+
+Contact Inputs
+
+No
+
+Communications
+
+Modbus TCP Slave
+
+Mathematics
+
+Yes
+
+Counters
+
+Yes
+
+Totalisers
+
+Yes
+
+Ethernet/FTP
+
+Yes
+
+Custom Screens
+
+No
+
+Remote Viewing
+
+Yes
+
+Recording Speed
+
+1Hz
+
+Trend Speed
+
+1Hz
+
+USB
+
+1
+
+Reports
+
+No
+
+Groups"
+08_6100e_recorder_chunk_009,08_6100e_recorder,"z
+
+Trend Speed
+
+1Hz
+
+USB
+
+1
+
+Reports
+
+No
+
+Groups
+
+1
+
+Review of History (on screen)
+
+Yes
+
+AMS2750F
+
+No
+
+Inputs
+
+6"
+09_d4t_data_logger_chunk_000,09_d4t_data_logger,"DISCONTINUED: D4T Data Logger
+
+Recommended replacement: F4T® Temperature and Process Controller
+
+Important Dates: 
+
+Last time buy: May 31, 2024
+Last time ship: December 31, 2024
+
+Description:
+
+The D4T with INTUITION® data logger from Watlow® offers a data logger with a wide range of field removable I/O modules for maximum design flexibility - allowing users to only pay for what they need."
+09_d4t_data_logger_chunk_001,09_d4t_data_logger,"y - allowing users to only pay for what they need. Configurations can be custom tailored to meet the scaling needs of a tremendous range of equipment and applications while providing exactly the hardware types required for compatibility. The D4T data logger also features a 4.3 inch, color, graphical touch panel."
+09_d4t_data_logger_chunk_002,09_d4t_data_logger,"features a 4.3 inch, color, graphical touch panel. Combining power, flexibility and functionality, this new data logger offers unmatched versatility, and its best-in-class ease of use could very well make user manuals a thing of the past."

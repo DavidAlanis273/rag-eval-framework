@@ -1,13 +1,11 @@
-#RAG Eval Framework-Configuration
+# === RAG Eval Framework - Configuration ===
 
 # Chunking parameters
-CHUNK_SIZE = 500          # caracteres por chunk
-CHUNK_OVERLAP = 50        # caracteres de traslape entre chunks
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 50
 
-# Paths
-DATA_DIR = "data"         # carpeta con los .txt
-
-# Delta table names
-DATABASE = "rag_eval"
-CHUNKS_TABLE = "document_chunks"
-EMBEDDINGS_TABLE = "chunk_embeddings"
+# Paths (todo dentro del repo)
+DATA_DIR = "data"
+OUTPUT_DIR = "outputs"
+CHUNKS_FILE = "outputs/chunks.csv"
+EMBEDDINGS_FILE = "outputs/embeddings.pkl"

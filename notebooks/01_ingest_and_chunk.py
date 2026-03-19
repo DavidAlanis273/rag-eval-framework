@@ -5,24 +5,22 @@
 # MAGIC %md
 # MAGIC # 01 - Ingesta y Chunking de Documentos
 # MAGIC Este notebook lee los documentos .txt de la carpeta data/, 
-# MAGIC los parte en chunks y los guarda en una tabla Delta.
+# MAGIC los parte en chunks y los guarda como CSV.
 
 # COMMAND ----------
 
-# Imports
 import os
 import sys
+import pandas as pd
 
-# Agregar el root del repo al path para poder importar utils/ y config/
 repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) if '__file__' in dir() else '/Workspace' + os.path.dirname(dbutils.notebook.entry_point.getDbutils().notebook().getContext().notebookPath().get()).rsplit('/notebooks', 1)[0]
 
 sys.path.insert(0, repo_root)
 
 from utils.chunking import chunk_document
-from config.settings import CHUNK_SIZE, CHUNK_OVERLAP, DATA_DIR, DATABASE, CHUNKS_TABLE
+from config.settings import CHUNK_SIZE, CHUNK_OVERLAP, DATA_DIR, OUTPUT_DIR, CHUNKS_FILE
 
 print(f"Repo root: {repo_root}")
-print(f"Data dir: {os.path.join(repo_root, DATA_DIR)}")
 
 # COMMAND ----------
 
@@ -31,10 +29,8 @@ print(f"Data dir: {os.path.join(repo_root, DATA_DIR)}")
 
 # COMMAND ----------
 
-# Construir el path a la carpeta data/
 data_path = os.path.join(repo_root, DATA_DIR)
 
-# Listar solo archivos .txt (ignorar gold_standard.csv y otros)
 txt_files = [f for f in os.listdir(data_path) if f.endswith('.txt')]
 txt_files.sort()
 
@@ -49,20 +45,15 @@ for f in txt_files:
 
 # COMMAND ----------
 
-# Procesar todos los documentos
 all_chunks = []
 
 for filename in txt_files:
     filepath = os.path.join(data_path, filename)
     
-    # Leer el contenido del archivo
     with open(filepath, 'r', encoding='utf-8') as f:
         text = f.read()
     
-    # Nombre limpio del source (sin extensión)
     source_name = filename.replace('.txt', '')
-    
-    # Aplicar chunking
     chunks = chunk_document(text, source_name, CHUNK_SIZE, CHUNK_OVERLAP)
     all_chunks.extend(chunks)
     
@@ -73,46 +64,39 @@ print(f"\nTotal de chunks generados: {len(all_chunks)}")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## Paso 3: Crear DataFrame y guardar como tabla Delta
+# MAGIC ## Paso 3: Crear DataFrame con pandas
 
 # COMMAND ----------
 
-# Crear DataFrame de Spark
-from pyspark.sql import Row
-
-rows = [Row(**chunk) for chunk in all_chunks]
-df_chunks = spark.createDataFrame(rows)
-
-# Mostrar preview
-display(df_chunks)
+df_chunks = pd.DataFrame(all_chunks)
+print(f"Shape: {df_chunks.shape}")
+print(f"Columnas: {list(df_chunks.columns)}")
+df_chunks.head(10)
 
 # COMMAND ----------
 
-# Ver estadísticas por documento
-from pyspark.sql.functions import count, avg, length
-
-stats = df_chunks.groupBy("source_document").agg(
-    count("*").alias("num_chunks"),
-    avg(length("chunk_text")).alias("avg_chunk_length")
-)
-display(stats)
+# Estadísticas por documento
+stats = df_chunks.groupby('source_document').agg(
+    num_chunks=('chunk_id', 'count'),
+    avg_chunk_length=('chunk_text', lambda x: x.str.len().mean())
+).round(0)
+stats
 
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## Paso 4: Guardar en tabla Delta
+# MAGIC ## Paso 4: Guardar como CSV
 
 # COMMAND ----------
 
-# Crear la base de datos si no existe
-spark.sql(f"CREATE DATABASE IF NOT EXISTS {DATABASE}")
+output_path = os.path.join(repo_root, OUTPUT_DIR)
+os.makedirs(output_path, exist_ok=True)
 
-# Guardar como tabla Delta (sobrescribir si ya existe)
-table_name = f"{DATABASE}.{CHUNKS_TABLE}"
-df_chunks.write.mode("overwrite").saveAsTable(table_name)
+chunks_file = os.path.join(repo_root, CHUNKS_FILE)
+df_chunks.to_csv(chunks_file, index=False)
 
-print(f"Tabla guardada: {table_name}")
-print(f"Total de registros: {df_chunks.count()}")
+print(f"Archivo guardado: {chunks_file}")
+print(f"Total de registros: {len(df_chunks)}")
 
 # COMMAND ----------
 
@@ -121,8 +105,7 @@ print(f"Total de registros: {df_chunks.count()}")
 
 # COMMAND ----------
 
-# Leer la tabla para confirmar que se guardó correctamente
-df_verify = spark.table(table_name)
-print(f"Registros en tabla: {df_verify.count()}")
-print(f"Columnas: {df_verify.columns}")
-display(df_verify.limit(5))
+df_verify = pd.read_csv(chunks_file)
+print(f"Registros: {len(df_verify)}")
+print(f"Columnas: {list(df_verify.columns)}")
+df_verify.head(5)
