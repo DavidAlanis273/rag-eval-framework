@@ -1,0 +1,21 @@
+query_id,query_text,expected_source_document
+Q01,What recorder has a 3.5 inch TFT colour display?,01_nanodac_recorder
+Q02,Which product offers PID control combined with graphical recording?,01_nanodac_recorder
+Q03,What recorder has an optional IP66 rated washdown bezel?,01_nanodac_recorder
+Q04,Which controller supports email and text alerts?,02_f4t_controller
+Q05,What product has a 4.3 inch color graphical touch panel?,09_d4t_data_logger
+Q06,Which controller is DIN-rail mountable and supports up to 152 control loops?,03_ez_zone_rm
+Q07,What module acts as a gateway between EtherNet/IP and Modbus RTU?,04_rma_plus
+Q08,Which product has a built-in Ethernet switch for real-time communication?,04_rma_plus
+Q09,What recorder comes in 12.1 inch XGA and 5.5 inch quarter VGA display sizes?,05_6000xio_recorder
+Q10,Which recorder stores data in tamper resistant binary format and has Compact Flash support?,05_6000xio_recorder
+Q11,What product includes Audit Trail for 21 CFR Part 11 and Nadcap applications?,06_6100a_6180a_recorder
+Q12,Which recorder has a 125ms total sample rate for up to 48 input channels?,06_6100a_6180a_recorder
+Q13,What recorder provides thermocouple life monitoring based on AMS2750F?,07_6180_aerodaq
+Q14,Which product supports automated scheduling for furnace calibration?,07_6180_aerodaq
+Q15,What is the 6 channel Ethernet communications paperless graphic recorder?,08_6100e_recorder
+Q16,Which recorder supports Modbus TCP slave and FTP protocols?,08_6100e_recorder
+Q17,What data logger has been discontinued and replaced by the F4T?,09_d4t_data_logger
+Q18,Which product uses TRU-TUNE adaptive control?,03_ez_zone_rm
+Q19,What recorder has USB plug and play and web server functionality?,05_6000xio_recorder
+Q20,Which product logs data to SD card stored as Windows files?,04_rma_plus
