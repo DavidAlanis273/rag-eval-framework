@@ -1,0 +1,62 @@
+query_id,query_text,expected_source,top1_source,top1_score,rank_of_correct,hit_at_3,hit_at_5,reciprocal_rank,top1_text
+Q01,What recorder has a 3.5 inch TFT colour display?,01_nanodac_recorder,05_6000xio_recorder,0.4721,5,0,1,0.2,"Eurotherm 6000XIO Distributed Graphic Recorders
+
+Each 6000XIO instrument has an intuitive, touch scr"
+Q02,Which product offers PID control combined with graphical recording?,01_nanodac_recorder,01_nanodac_recorder,0.6614,1,1,1,1.0,"Eurotherm nanidac Recorder / Controller
+
+The ultimate in graphical recording combined with PID contr"
+Q03,What recorder has an optional IP66 rated washdown bezel?,01_nanodac_recorder,01_nanodac_recorder,0.5385,1,1,1,1.0,"r Guide for wiring instructions.
+
+Washdown Front
+
+An optional IP66 rated Wash-down bezel has been ma"
+Q04,Which controller supports email and text alerts?,02_f4t_controller,03_ez_zone_rm,0.3513,2,1,1,0.5,"ption	Information
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL® , CSA, CE, RoHS, W.E.E.E. FM "
+Q05,What product has a 4.3 inch color graphical touch panel?,09_d4t_data_logger,09_d4t_data_logger,0.4878,1,1,1,1.0,"features a 4.3 inch, color, graphical touch panel. Combining power, flexibility and functionality, t"
+Q06,Which controller is DIN-rail mountable and supports up to 152 control loops?,03_ez_zone_rm,03_ez_zone_rm,0.5315,1,1,1,1.0,"ption	Information
+TRU-TUNE®+ Adaptive Control	Yes
+Agency Approvals	UL® , CSA, CE, RoHS, W.E.E.E. FM "
+Q07,What module acts as a gateway between EtherNet/IP and Modbus RTU?,04_rma_plus,04_rma_plus,0.7198,1,1,1,1.0,"IP™, Modbus® TCP and Modbus® RTU.
+
+
+Description:
+
+The device comes standard with a built-in managed "
+Q08,Which product has a built-in Ethernet switch for real-time communication?,04_rma_plus,04_rma_plus,0.6014,1,1,1,1.0,"ly into existing systems
+Built-in Ethernet switch
+Eliminates the need to provide a switch for small "
+Q09,What recorder comes in 12.1 inch XGA and 5.5 inch quarter VGA display sizes?,05_6000xio_recorder,08_6100e_recorder,0.4747,3,1,1,0.3333,"Eurotherm 6100E Paperless Graphic Recorder
+
+6100E – 6 Channel, Ethernet Communications Paperless Gra"
+Q10,Which recorder stores data in tamper resistant binary format and has Compact Flash support?,05_6000xio_recorder,06_6100a_6180a_recorder,0.595,2,1,1,0.5,munication and choice of Compact Flash or SD Card. Data is stored in a tamper resistant binary forma
+Q11,What product includes Audit Trail for 21 CFR Part 11 and Nadcap applications?,06_6100a_6180a_recorder,06_6100a_6180a_recorder,0.6649,1,1,1,1.0,ta collected for process and legislation purposes. Protection includes Audit Trail for 21CFR Part 11
+Q12,Which recorder has a 125ms total sample rate for up to 48 input channels?,06_6100a_6180a_recorder,06_6100a_6180a_recorder,0.5331,1,1,1,1.0,"Remote viewing and configuration
+Full audit trail
+USB “Plug & Play”
+Local printing
+The 6180A offers "
+Q13,What recorder provides thermocouple life monitoring based on AMS2750F?,07_6180_aerodaq,07_6180_aerodaq,0.7067,1,1,1,1.0,"ndards.
+
+Description
+Thermocouple life monitoring
+The 6180 AeroDAQ provides thermocouple life monito"
+Q14,Which product supports automated scheduling for furnace calibration?,07_6180_aerodaq,07_6180_aerodaq,0.5883,1,1,1,1.0,"ximum life as per AMS2750F.
+
+Automated scheduling
+Using a furnace when it has exceeded the allowable"
+Q15,What is the 6 channel Ethernet communications paperless graphic recorder?,08_6100e_recorder,08_6100e_recorder,0.7644,1,1,1,1.0,"Eurotherm 6100E Paperless Graphic Recorder
+
+6100E – 6 Channel, Ethernet Communications Paperless Gra"
+Q16,Which recorder supports Modbus TCP slave and FTP protocols?,08_6100e_recorder,08_6100e_recorder,0.7531,1,1,1,1.0,"and supports Modbus TCP (slave) and FTP protocols. The recorder can easily, therefore, be integrated"
+Q17,What data logger has been discontinued and replaced by the F4T?,09_d4t_data_logger,09_d4t_data_logger,0.8048,1,1,1,1.0,"DISCONTINUED: D4T Data Logger
+
+Recommended replacement: F4T® Temperature and Process Controller
+
+Imp"
+Q18,Which product uses TRU-TUNE adaptive control?,03_ez_zone_rm,02_f4t_controller,0.6267,2,1,1,0.5,"very well make user manuals a thing of the past.
+
+Firmware Updates 
+Latest Version: 4.08.0029 (Febru"
+Q19,What recorder has USB plug and play and web server functionality?,05_6000xio_recorder,08_6100e_recorder,0.6182,4,0,1,0.25,"and supports Modbus TCP (slave) and FTP protocols. The recorder can easily, therefore, be integrated"
+Q20,Which product logs data to SD card stored as Windows files?,04_rma_plus,06_6100a_6180a_recorder,0.4141,4,0,1,0.25,munication and choice of Compact Flash or SD Card. Data is stored in a tamper resistant binary forma
